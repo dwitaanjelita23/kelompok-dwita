@@ -1,4 +1,4 @@
-Aplikasi sederhana jasa cuci kendaraan dengan PHP MySQLi.
+Aplikasi jasa cuci kendaraan.
 ---
 Fitur:
 - Multi user.
@@ -6,4 +6,7 @@ Fitur:
 - Cetak Nota
 - Laporan
 
-Ini adalah source code dari https://masrud.com/post/aplikasi-cuci-mobil-motor-php-mysqli
+kelompok :
+dwita anjelita
+firda c
+rahayu sri lestari
